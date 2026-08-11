@@ -22,6 +22,16 @@
   <a href="https://reddit.com/u/Noble_Efficiency13"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
 </p>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/chanceofsecurity">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png"
+      alt="Buy Me a Coffee"
+      height="40"
+    />
+  </a>
+</p>
+
 ---
 
 ## 🏆 Microsoft Security MVP — Identity & Access
